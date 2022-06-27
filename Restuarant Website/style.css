@@ -1,0 +1,188 @@
+body {
+ background-color: rgb(200,100,200);
+}
+.home { 
+  position: relative;
+  text-align: center;
+  background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/16/ff/3f/3c/bar-tartine.jpg);
+  height: 500px;
+  width: 100%;
+ margin-top: 30px;
+}
+.text {
+ text-align: center;
+ padding-top: 200px;
+ font-size: 100px;
+ color:blue;
+ font-weight: bold;
+}
+
+ .button1 {
+ display:inline-block;
+ font-size: 30px;
+ font-weight: 800px;
+ color:blue;
+ text-decoration: none;
+ font-style:oblique;
+ margin-top: 50px;
+ margin-left: 50px;
+ border-radius: 20px;
+ background-color:rgb(180,250,170);
+ }
+.navbar {
+ display: inline-block;
+ margin-left: 900px;
+ margin-top: 50px;
+ }
+.navbar .nav1{
+ text-decoration: none;
+ color: white;
+ font-size: 25px;
+ font-style: italic;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+h1 {
+text-align: center;
+font-size: 40px;
+color:rgb(180,250,170);
+margin-top: 100px;
+}
+.leftsection {
+ display: inline-block;
+ }
+.leftsection img {
+ width:300px;
+ height: 200px;
+ margin-left: 200px;
+ margin-right: 50px;
+}
+.leftsection h2{
+ text-decoration:none;
+ color: black;
+ display:block;
+ margin-left: 200px;
+ text-align: center;
+}
+
+.centersection {
+ display: inline-block;
+ }
+.centersection img {
+ width:300px;
+ height: 200px;
+ margin-left: 50px;
+ margin-right: 50px;
+}
+.centersection h2{
+ text-decoration:none;
+ color: black;
+ display:block;
+ margin-left: 80px;
+}
+
+.rightsection {
+ display: inline-block;
+ }
+.rightsection img {
+ width:300px;
+ height: 200px;
+ margin-left: 50px;
+ margin-right: 100px;
+}
+.rightsection h2{
+ text-decoration:none;
+ color: black;
+ display:block;
+ margin-left: 80px;
+}
+.service1 {
+ display: inline-block;
+ margin-left: 400px;
+ margin-right: 30px;
+}
+.service2 {
+ display: inline-block;
+ margin-left: 30px;
+ margin-right: 30px;
+}
+.service3 {
+ display: inline-block;
+ margin-left: 30px;
+ margin-right: 30px;
+}
+.service h4{
+ text-align: center;
+ color: white;
+ margin-top: 100px;
+ font-weight: bold;
+ }
+.service1 img {
+ width: 200px;
+ height: 100px;
+ background-color: transparent;
+ margin-top: 50px;
+}
+span {
+color: rgb(127,213,180);
+font-size: 50px;
+font-style: italic;
+}
+.service2 img {
+ width: 200px;
+ height: 100px;
+ background-color: transparent;
+ margin-top: 50px;
+}
+.service3 img {
+ width: 200px;
+ height: 100px;
+ background-color: transparet;
+ margin-top: 50px;
+}
+.service1 p{
+ color:black;
+ font-size: 15px;
+ font-weight:bold;
+}
+.service2 p{
+ color:black;
+ font-size: 15px;
+ font-weight:bold;
+}
+.service3 p{
+ color:black;
+ font-size: 15px;
+ font-weight:bold;
+}
+.address {
+ font-size: 10px;
+ margin-left: 100px;
+ margin-top: 30px;
+}
+.social img {
+ width:30px;
+ height:30px;
+ display: inline-block;
+}
+.social {
+ display: inline-block; 
+}
+.book h4{
+ display: inline-block;
+ margin-left: 600px;
+ 
+}
+.form {
+ display:inline-block;
+ margin-left: 600px;
+}
+ h3 {
+ text-align: center;
+}
+iframe{
+ 
+margin-left: 500px;
+width: 800px;
+height: 200px;
+}
